@@ -60,7 +60,6 @@ Olá! Meu nome é Ketlyn Rodrigues de Miranda e sou de São Paulo. Sou formada c
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 <p>
   <img 
@@ -77,5 +76,4 @@ Olá! Meu nome é Ketlyn Rodrigues de Miranda e sou de São Paulo. Sou formada c
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetyRM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
