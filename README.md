@@ -26,16 +26,16 @@ Olá! Meu nome é Ketlyn Rodrigues de Miranda e sou de São Paulo. Sou formada c
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="My SQL" 
+    title="My SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
